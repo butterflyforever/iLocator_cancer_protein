@@ -1,0 +1,237 @@
+filelist:197 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/1/normal/79970_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/1/normal/79970_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/1/normal/79970_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/10/normal/141648_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/10/normal/141648_A_8_4.jpg 
+Have checked 5 pictures, process   2.54 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/10/normal/141648_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/11/normal/71361_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/11/normal/71361_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/11/normal/71361_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/12/normal/8226_A_7_4.jpg 
+Have checked 10 pictures, process   5.08 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/12/normal/8226_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/12/normal/8226_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/13/normal/48477_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/13/normal/48477_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/13/normal/48477_A_9_4.jpg 
+Have checked 15 pictures, process   7.61 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/14/normal/9117_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/14/normal/9117_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/14/normal/9117_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/15/normal/7461_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/15/normal/7461_A_8_4.jpg 
+Have checked 20 pictures, process  10.15 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/15/normal/7461_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/16/normal/64991_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/16/normal/64991_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/16/normal/64991_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/17/normal/32458_A_7_4.jpg 
+Have checked 25 pictures, process  12.69 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/17/normal/32458_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/17/normal/32458_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/18/normal/44797_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/18/normal/44797_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/18/normal/44797_A_9_4.jpg 
+Have checked 30 pictures, process  15.23 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/19/normal/38042_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/19/normal/38042_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/19/normal/38042_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/2/normal/23730_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/2/normal/23730_A_8_4.jpg 
+Have checked 35 pictures, process  17.77 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/2/normal/23730_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/20/normal/11734_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/20/normal/11734_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/20/normal/11734_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/21/normal/67592_A_7_4.jpg 
+Have checked 40 pictures, process  20.30 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/21/normal/67592_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/21/normal/67592_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/22/normal/88098_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/22/normal/88098_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/22/normal/88098_A_9_4.jpg 
+Have checked 45 pictures, process  22.84 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/23/normal/13151_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/23/normal/13151_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/23/normal/13151_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/24/normal/156681_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/24/normal/156681_A_8_4.jpg 
+Have checked 50 pictures, process  25.38 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/24/normal/156681_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/25/normal/57995_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/25/normal/57995_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/25/normal/57995_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/26/normal/12806_A_7_4.jpg 
+Have checked 55 pictures, process  27.92 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/26/normal/12806_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/26/normal/12806_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/27/normal/56941_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/27/normal/56941_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/27/normal/56941_A_9_4.jpg 
+Have checked 60 pictures, process  30.46 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/28/normal/71664_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/28/normal/71664_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/28/normal/71664_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/29/normal/36614_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/29/normal/36614_A_8_4.jpg 
+Have checked 65 pictures, process  32.99 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/29/normal/36614_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/3/normal/51399_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/3/normal/51399_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/3/normal/51399_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/30/normal/1790_A_7_4.jpg 
+Have checked 70 pictures, process  35.53 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/30/normal/1790_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/31/normal/77422_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/31/normal/77422_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/31/normal/77422_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/32/normal/82963_A_7_4.jpg 
+Have checked 75 pictures, process  38.07 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/32/normal/82963_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/32/normal/82963_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/33/normal/60747_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/33/normal/60747_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/33/normal/60747_A_9_4.jpg 
+Have checked 80 pictures, process  40.61 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/34/normal/65686_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/34/normal/65686_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/34/normal/65686_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/35/normal/55718_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/35/normal/55718_A_8_4.jpg 
+Have checked 85 pictures, process  43.15 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/35/normal/55718_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/36/normal/59311_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/36/normal/59311_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/36/normal/59311_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/37/normal/51059_A_7_4.jpg 
+Have checked 90 pictures, process  45.69 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/37/normal/51059_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/37/normal/51059_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/38/normal/88239_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/38/normal/88239_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/38/normal/88239_A_9_4.jpg 
+Have checked 95 pictures, process  48.22 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/39/normal/55326_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/39/normal/55326_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/39/normal/55326_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/4/normal/28259_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/4/normal/28259_A_8_4.jpg 
+Have checked 100 pictures, process  50.76 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/4/normal/28259_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/40/normal/21858_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/40/normal/21858_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/40/normal/21858_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/41/normal/155684_A_7_4.jpg 
+Have checked 105 pictures, process  53.30 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/41/normal/155684_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/41/normal/155684_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/42/normal/49204_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/42/normal/49204_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/42/normal/49204_A_9_4.jpg 
+Have checked 110 pictures, process  55.84 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/43/normal/37917_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/43/normal/37917_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/43/normal/37917_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/44/normal/84716_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/44/normal/84716_A_8_4.jpg 
+Have checked 115 pictures, process  58.38 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/44/normal/84716_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/45/normal/55954_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/45/normal/55954_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/45/normal/55954_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/46/normal/46119_A_7_4.jpg 
+Have checked 120 pictures, process  60.91 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/46/normal/46119_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/46/normal/46119_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/47/normal/34863_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/47/normal/34863_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/47/normal/34863_A_9_4.jpg 
+Have checked 125 pictures, process  63.45 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/48/normal/87417_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/48/normal/87417_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/48/normal/87417_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/49/normal/71398_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/49/normal/71398_A_8_4.jpg 
+Have checked 130 pictures, process  65.99 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/49/normal/71398_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/5/normal/28235_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/5/normal/28235_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/5/normal/28235_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/50/normal/31134_A_7_4.jpg 
+Have checked 135 pictures, process  68.53 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/50/normal/31134_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/50/normal/31134_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/51/normal/81698_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/51/normal/81698_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/51/normal/81698_A_9_4.jpg 
+Have checked 140 pictures, process  71.07 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/52/normal/71353_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/52/normal/71353_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/52/normal/71353_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/53/normal/33177_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/53/normal/33177_A_8_4.jpg 
+Have checked 145 pictures, process  73.60 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/53/normal/33177_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/54/normal/13354_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/54/normal/13354_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/54/normal/13354_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/55/normal/67990_A_7_4.jpg 
+Have checked 150 pictures, process  76.14 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/55/normal/67990_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/55/normal/67990_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/56/normal/39662_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/56/normal/39662_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/56/normal/39662_A_9_4.jpg 
+Have checked 155 pictures, process  78.68 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/57/normal/54298_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/57/normal/54298_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/57/normal/54298_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/58/normal/51246_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/58/normal/51246_A_8_4.jpg 
+Have checked 160 pictures, process  81.22 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/58/normal/51246_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/59/normal/20756_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/59/normal/20756_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/59/normal/20756_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/6/normal/30413_A_7_4.jpg 
+Have checked 165 pictures, process  83.76 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/6/normal/30413_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/6/normal/30413_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/60/normal/42513_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/60/normal/42513_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/60/normal/42513_A_9_4.jpg 
+Have checked 170 pictures, process  86.29 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/61/normal/66675_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/61/normal/66675_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/61/normal/66675_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/62/normal/46521_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/62/normal/46521_A_8_4.jpg 
+Have checked 175 pictures, process  88.83 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/62/normal/46521_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/63/normal/6333_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/63/normal/6333_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/63/normal/6333_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/64/normal/27260_A_7_4.jpg 
+Have checked 180 pictures, process  91.37 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/64/normal/27260_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/64/normal/27260_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/65/normal/77609_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/65/normal/77609_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/65/normal/77609_A_9_4.jpg 
+Have checked 185 pictures, process  93.91 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/66/normal/94334_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/66/normal/94334_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/66/normal/94334_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/7/normal/29800_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/7/normal/29800_A_8_4.jpg 
+Have checked 190 pictures, process  96.45 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/7/normal/29800_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/8/normal/24012_A_7_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/8/normal/24012_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/8/normal/24012_A_9_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/9/normal/30389_A_7_4.jpg 
+Have checked 195 pictures, process  98.98 % 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/9/normal/30389_A_8_4.jpg 
+/home/liyang/project/medical_image/ML_Project/iLocate_code/lib/2_separationCode/HPA_ieee_test_new/testdata/9/normal/30389_A_9_4.jpg 
